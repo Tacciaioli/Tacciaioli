@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React and Python**
 
-- 🤝 I’m looking for **Work**
-
 - 📫 How to reach me **tiagoacciaioli1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
