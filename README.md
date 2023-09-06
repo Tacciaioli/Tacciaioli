@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiago Acciaioli</h1>
 <h3 align="center">A passionate Full-Stack Developer from Portugal</h3>
 
-- 🔭 I’m currently working on [Regene](www.regene.app)
-
 - 🌱 I’m currently learning **React and Python**
 
 - 📫 How to reach me **tiagoacciaioli1@gmail.com**
